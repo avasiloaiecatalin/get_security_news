@@ -1,6 +1,6 @@
 {
   "name": "get_security_news",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A module to find the latest news about the most important cyber security events.",
   "main": "index.js",
   "repository": "https://github.com/avasiloaiecatalin/get_security_news.git",
