@@ -1,0 +1,15 @@
+{
+  "name": "get_security_news",
+  "version": "1.0.1",
+  "description": "A module to find the latest news about the most important cyber security events.",
+  "main": "index.js",
+  "repository": "https://github.com/avasiloaiecatalin/get_security_news.git",
+  "author": "avasiloaiecatalin <48545737+avasiloaiecatalin@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "cheerio": "^1.0.0-rc.12",
+    "lodash": "^4.17.21",
+    "node-fetch": "^3.2.10"
+  }
+}
